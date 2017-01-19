@@ -33,7 +33,7 @@ It exists primarily to get you started quickly with learning and prototyping in 
 We are unlikely to accept suggestions about how to grow this QuickStart into something it is not.
 Please keep that in mind before posting issues and PRs.
 
-## Prerequisites
+## Prerequisites (پیش نیازات)
 
 Node.js and npm are essential to Angular development. 
     
@@ -46,14 +46,14 @@ Older versions produce errors.
 
 We recommend [nvm](https://github.com/creationix/nvm) for managing multiple versions of node and npm.
 
-## Create a new project based on the QuickStart
+## Create a new project based on the QuickStart (ایجاد پروژه جدید)
 
 Clone this repo into new project folder (e.g., `my-proj`).
 ```shell
-git clone https://github.com/angular/quickstart  my-proj
+git clone https://github.com/webnegar/Angular2  my-proj
 cd my-proj
 ```
-## Install npm packages
+## Install npm packages (نصب پکیج ها)
 
 > See npm and nvm version notes above
 
