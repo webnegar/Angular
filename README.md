@@ -1,6 +1,21 @@
 # Angular2-QuickStart
-[![Build Status][travis-badge]][travis-badge-url]
+
+
 این مخزن جهت دوره آنگولار2 در آکادمی وب نگار ایجاد شده است
+
+Materials for the ["Angular 2: Getting Started"](http://academy.webnegar.ir/Angular2.html) course on Webnegar.
+
+`01 - Start`: The starter files set up for use in VSCode, WebStorm, or other editors. Use this to code along with the course. (Updated for <i>Angular 2 final</i>)
+
+`02 - Final`: The completed files. Use this to see the completed solution from the course. (Updated for <i>Angular 2 final</i>)
+
+See the `README.md` file under each folder for details on installing and running the application.
+
+If you have any problems installing or running this code, please see the ["Angular 2: Getting Started Problem Solver"](http://academy.webnegar.ir/Angular2.html)
+
+If that does not resolve your issue, please post to the [discussion board for the course](http://academy.webnegar.ir/Angular2.html)
+
+NOTE: The installation was tested using node v6.5.0 and npm 3.10.6.
 
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
