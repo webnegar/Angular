@@ -6,12 +6,16 @@
 Materials for the ["Angular 2: Getting Started"](http://academy.webnegar.ir/Angular2.html) course on Webnegar.
 
 `01 - Start`: The starter files set up for use in VSCode, WebStorm, or other editors. Use this to code along with the course. (Updated for <i>Angular 2 final</i>)
+فایل ها را می توانید در ویژوال استادیو کد یا دیگر ادیتورهای مورد علاقه استفاده کنید
 
 `02 - Final`: The completed files. Use this to see the completed solution from the course. (Updated for <i>Angular 2 final</i>)
 
+
 See the `README.md` file under each folder for details on installing and running the application.
+فایل فوق در هر پوشه حاوی دستورالعمل و جزئیات نصب و راه اندازی  برنامه است
 
 If you have any problems installing or running this code, please see the ["Angular 2: Getting Started Problem Solver"](http://academy.webnegar.ir/Angular2.html)
+هر نوع اشکال در نصب و راه اندازی این کد ها را با ما در میان بگذارید
 
 If that does not resolve your issue, please post to the [discussion board for the course](http://academy.webnegar.ir/Angular2.html)
 
