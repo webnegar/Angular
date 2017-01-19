@@ -1,3 +1,5 @@
+# Angular2-QuickStart Installation
+
 1) Open a command prompt in the project's root directory (01-starter)
 
 2) Type: `npm install`
