@@ -1,4 +1,4 @@
-# Angular2-QuickStart
+# Angular2-Samples
 
 
 این مخزن جهت دوره آنگولار2 در آکادمی وب نگار ایجاد شده است
