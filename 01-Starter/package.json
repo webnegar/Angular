@@ -1,8 +1,8 @@
 {
-    "name": "product-management",
+    "name": "sample-app-management",
     "version": "1.0.0",
-    "author": "Deborah Kurata",
-    "description": "Package for the Acme Product Management sample application",
+    "author": "Ehsan Mohsenpourian",
+    "description": "my sample application",
     "scripts": {
         "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
         "tsc": "tsc",
