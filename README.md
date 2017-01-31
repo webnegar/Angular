@@ -1,7 +1,7 @@
 # Angular2-Samples
 
 
-این مخزن جهت دوره آنگولار2 در آکادمی وب نگار ایجاد شده است
+این مخزن جهت سورس کد پروژه های دوره آموزش آنگولار در آکادمی وب نگار ایجاد شده است
 
 Materials for the ["Angular 2: Getting Started"](http://academy.webnegar.ir/Angular2.html) course on Webnegar.
 
