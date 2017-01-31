@@ -2,7 +2,7 @@
 
 
 این مخزن جهت سورس کد پروژه های دوره آموزش آنگولار در آکادمی وب نگار ایجاد شده است
-جهت اطلاعات بیشتر می توانید به آدرس ["دوره آموزشی فارسی آنگولار وب نگار"](http://academy.webnegar.ir/Angular2.html) مراجعه نماسایید
+جهت اطلاعات بیشتر می توانید به آدرس ["دوره آموزشی فارسی آنگولار آکادمی وب نگار"](http://academy.webnegar.ir/Angular2.html) مراجعه نمایید
 
 Materials for the ["Angular 2: Getting Started"](http://academy.webnegar.ir/Angular2.html) course on Webnegar.
 
