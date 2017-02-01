@@ -1,10 +1,10 @@
 # Angular2-Samples
 
-
+<div lang="fa" dir="rtl" align="right">
 این مخزن جهت سورس کد پروژه های دوره آموزش آنگولار در آکادمی وب نگار ایجاد شده است
 جهت اطلاعات بیشتر می توانید به آدرس ["دوره آموزشی فارسی آنگولار آکادمی وب نگار"](http://academy.webnegar.ir/Angular2.html) مراجعه نمایید
-
-Materials for the ["Angular 2: Getting Started"](http://academy.webnegar.ir/Angular2.html) course on Webnegar.
+</div>
+Materials for the ["Angular 2: Getting Started"](http://academy.webnegar.ir/Angular.html) course on Webnegar.
 
 `01 - Start`: The starter files set up for use in VSCode, WebStorm, or other editors. Use this to code along with the course. (Updated for <i>Angular 2 final</i>)
 فایل ها را می توانید در ویژوال استادیو کد یا دیگر ادیتورهای مورد علاقه استفاده کنید
@@ -13,12 +13,16 @@ Materials for the ["Angular 2: Getting Started"](http://academy.webnegar.ir/Angu
 
 
 See the `README.md` file under each folder for details on installing and running the application.
+<div lang="fa" dir="rtl" align="right">
 فایل فوق در هر پوشه حاوی دستورالعمل و جزئیات نصب و راه اندازی  برنامه است
+</div>
 
-If you have any problems installing or running this code, please see the ["Angular 2: Getting Started Problem Solver"](http://academy.webnegar.ir/Angular2.html)
+If you have any problems installing or running this code, please see the ["Angular 2: Getting Started Problem Solver"](http://academy.webnegar.ir/Angular.html)
+<div lang="fa" dir="rtl" align="right">
 هر نوع اشکال در نصب و راه اندازی این کد ها را با ما در میان بگذارید
+</div>
 
-If that does not resolve your issue, please post to the [discussion board for the course](http://academy.webnegar.ir/Angular2.html)
+If that does not resolve your issue, please post to the [discussion board for the course](http://academy.webnegar.ir/Angular.html)
 
 NOTE: The installation was tested using node v6.5.0 and npm 3.10.6.
 
